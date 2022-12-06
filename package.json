@@ -1,0 +1,23 @@
+{
+  "name": "where-are-my-employees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPhuzzles/Where-Are-My-Employees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPhuzzles/Where-Are-My-Employees/issues"
+  },
+  "homepage": "https://github.com/MrPhuzzles/Where-Are-My-Employees#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
